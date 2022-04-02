@@ -1,8 +1,10 @@
 import './App.css';
+import Creativity from "./Component/Creativity.jsx"
 
 function App() {
   return (
-    <div className="App"><h1>tgdtdr</h1>
+    <div className="App">
+      <Creativity />
     </div>
   );
 }
